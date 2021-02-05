@@ -1,1 +1,1 @@
-Using this project just for my learning purpose
+Have used HTML for most part and a little bit of CSS
